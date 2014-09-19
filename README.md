@@ -16,6 +16,6 @@ If you move the images folder, open the `jquery-ui.less` file and on [first line
 
 #License
 
-Less code I wrote is released under MIT (include css code from jQuery UI).
+Less code I wrote is released under MIT (include css code from jQuery UI, released under MIT).
 
 Icon images are copyright of jQuery Foundations and [released under MIT](https://jquery.org/license/).
