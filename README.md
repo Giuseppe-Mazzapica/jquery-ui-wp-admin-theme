@@ -12,7 +12,7 @@ Widget colors changes according to current admin color theme (currently, only th
 The file [`jquery-ui.less`](jquery-ui.less) includes all the files in right order, so just compile it with your favourite tool.
 
 jQuery UI needs some images for icons, repo contain that images in the `img` subfolder.
-If you move the images folder, open the `jquery-ui.less` file and on [first line](jquery-ui.less#L1) adjust the less variable `@imgpath` accordingly.
+If you move the images folder, open the `jquery-ui.less` file and on [first line](jquery-ui.less#L2) adjust the less variable `@imgpath` accordingly.
 
 #License
 
